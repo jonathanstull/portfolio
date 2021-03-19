@@ -51,6 +51,23 @@ a {
   color:red;
 }
 
+.card {
+  text-align: center;
+  padding: none;
+}
+
+h5 {
+  padding-bottom: 10px;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.card-body {
+  line-height: 50%;
+}
+
 .footer {
   background-color: #49796b;
   color: #d1e0d6;
