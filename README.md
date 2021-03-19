@@ -1,48 +1,46 @@
-# _{Application Name}_
+# Portfolio
 
-#### _{Brief description of application}, {Date of current version}
+#### _A website to showcase the webdev work of Jonathan Stull, 3.19.2021_
 
-#### By _**{List of contributors}**_
+#### By Jonathan Stull
+
+**To see this live website, visit http://jonathanstull.github.io/portfolio**
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+Portfolio is a simple webpage to demonstrate the growing skills and body of work created by webdev Jonathan Stull.
+
+As of March 2021, these skills include basic HTML, CSS and Markdown proficiencies that Jonathan learned while attending Epicodus, a development bootcamp. Its current feature set include basic HTML page elements, CSS block and inline styling for those elements, and time permitting more complex Bootstrap styling for containers and cards.
+
+As the course unfolds between March and September 2021, Jonathan expects to build skills in Javascript, C#/.NET and React, and this portfolio page will be updated as his skills evolve.
 
 ## Setup/Installation Requirements
 
-* Software requirements (internet browser, code editor, etc.)
+**Software requirements (internet browser, code editor, etc.)**
 1. Internet browser
 2. A code editor like VSCode or Atom to view or edit the codebase
 
-* Download/clone instructions
+**Download/clone instructions**
 1. Download this repository onto your computer by clicking the 'code' button
-2. Open the project folder.
+2. Open the project folder
 3. Double-click the index.html to open it in your web browser
 
-*Open via Bash/GitBash:
-1. Clone this repository onto your computer: git clone {PUT_REPO_HERE}
-2. Navigate into the {NAME_OF_DIRECTORY}  directory, and open in VSCode or preferred text editor code .
+**Open via Bash/GitBash:**
+1. Clone this repository onto your computer: `git clone` `{PUT_REPO_HERE}`
+2. Navigate into the `{NAME_OF_DIRECTORY}`  directory, and open in VSCode or preferred text editor `code .`
 3. Open index.html in Chrome or preferred browser
-
-To see my live website go to {GH_PAGES_LINK_HERE}!
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* No known issues
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
-
-## Open Source statement
-
-
+* HTML
+* CSS
+* Visual Studio Code
+* Google Chrome
+* Markdown
 
 ## MIT License
 
@@ -55,8 +53,6 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-
 ## Contact Information
 
-_{Add your contact information here.}_
+Bugs, inquiries or questions should be directed to Jonathan Stull via email at <jonathan.d.stull@gmail.com>.
