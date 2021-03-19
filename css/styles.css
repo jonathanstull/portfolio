@@ -14,23 +14,22 @@ body {
 
 img.profile {
   margin: auto;
-  width: 40%;
+  width: 30%;
   height: auto;
   display: block;
-  padding-top: 60px;
-}
-
-.content {
-  width:75%;
-  margin:auto;
-  
 }
 
 h1.jumbo-header {
-  font-family: "Open Sans", "Maven Pro", sans-serif;
-  padding-top: 40px;
+  font-family: "Quicksand", "Maven Pro", sans-serif;
+  font-size: 3em;
+  padding-top: 30px;
   text-align: center;
   style: bold;
+}
+
+.content {
+  width: 75%;
+  margin: auto;
 }
 
 h3 {
