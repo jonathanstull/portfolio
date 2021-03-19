@@ -10,6 +10,17 @@ img.profile {
 }
 
 .footer {
-  color: #d1e0d6;
   background-color: #49796b;
 }
+
+.footer-content {
+  color: #d1e0d6;
+  background-color: #49796b;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  display: block;
+}
+
+.footer-icon {
+  
