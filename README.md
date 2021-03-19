@@ -41,6 +41,7 @@ As the course unfolds between March and September 2021, Jonathan expects to buil
 * Visual Studio Code
 * Google Chrome
 * Markdown
+* Color scheme: Seafoam (#d1e0d6, #a3c1ad, #a0d6b4, #5f9ea0, #317873, and #49796b)
 
 ## MIT License
 
