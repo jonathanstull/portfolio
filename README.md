@@ -56,4 +56,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 
 ## Contact Information
 
-Bugs, inquiries or questions should be directed to Jonathan Stull via email at <jonathan.d.stull@gmail.com>.
+Bugs, inquiries or questions should be directed to Jonathan Stull via email at <jonathan.d.stull@gmail.com>. You may also reach out via [Instagram](https://instagram.com/jonathandstull/).
