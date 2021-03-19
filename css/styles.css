@@ -4,3 +4,7 @@ img.profile {
   height: auto;
   display: block;
 }
+
+.anagram {
+  color:red;
+}
