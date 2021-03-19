@@ -25,6 +25,13 @@ h1.jumbo-header {
 
 h3 {
   font-family: "Open Sans", "Maven Pro", sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a {
+  color:	#5f9ea0;
+  style: bold;
 }
 
 .anagram {
