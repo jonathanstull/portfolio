@@ -17,8 +17,14 @@ img.profile {
 }
 
 h1.jumbo-header {
+  font-family: "Open Sans", "Maven Pro", sans-serif;
   padding-top: 40px;
   text-align: center;
+  style: bold;
+}
+
+h3 {
+  font-family: "Open Sans", "Maven Pro", sans-serif;
 }
 
 .anagram {
