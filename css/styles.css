@@ -85,12 +85,19 @@ h5 {
   height: auto;
 }
 
+.footer-right {
+  float: right;
+  padding-right: 25px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
 img.footer-icon {
   margin: 5px;
 }
 
 .footer-quote {
-  text-align: right;
+  text-align: center;
   padding: 75px;
   border: 5px;
   border-color: white;
