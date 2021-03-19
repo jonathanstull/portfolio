@@ -11,16 +11,21 @@ img.profile {
 
 .footer {
   background-color: #49796b;
+  color: #d1e0d6;
+  padding: 20px;
 }
 
 .footer-content {
-  color: #d1e0d6;
   background-color: #49796b;
   text-align: center;
   margin: auto;
   width: 50%;
   display: block;
+  padding-bottom: 10px;
 }
 
 .footer-icon {
-  
+  height: 30px;
+  width: 30px;
+  padding: 10px;
+}
