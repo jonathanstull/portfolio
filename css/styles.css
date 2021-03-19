@@ -32,8 +32,12 @@ h1.jumbo-header {
   margin: auto;
 }
 
+.tagline {
+  font-size: 125%;
+}
+
 h3 {
-  font-family: "Open Sans", "Maven Pro", sans-serif;
+  font-family: "Maven Pro", "Open Sans", sans-serif;
   padding-top: 10px;
   padding-bottom: 10px;
 }
