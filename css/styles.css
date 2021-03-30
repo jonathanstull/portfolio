@@ -1,10 +1,4 @@
 body {
-  margin-left: none;
-  margin-right: none;
-  margin-top: none;
-}
-
-.container {
   font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
@@ -49,14 +43,8 @@ a {
   font-weight: bold;
 }
 
-.anagram {
-  color:red;
-}
-
 .card {
   text-align: center;
-  margin-top: none;
-  margin-bottom: none;
 }
 
 h5 {
@@ -67,29 +55,17 @@ h5 {
   line-height: 25%;
 }
 
-.footer {
-  height: 175px;
-  width: 100%;
-  background-color: #49796b;
-  color: #d1e0d6;
-  margin-bottom: none;
-  padding-bottom: none;
-}
-
-.footer-left {
-  float: left;
-  padding-top: none;
-  padding-left: none;
-  padding-right: none;
-  width: 75px;
+footer {
+  background-color: #385F71;
+  color: #F5F0F6;
+  font-size: 0.7em;
+  font-weight: bold;
+  padding: 20px;
   height: auto;
+  width: 100%;
+  text-align: center;
 }
 
 img.footer-icon {
-  margin: none;
-}
-
-.footer-quote {
-  text-align: right;
-  padding: none;
+  margin: 5px;
 }
