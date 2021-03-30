@@ -10,17 +10,14 @@ header {
   padding: 20px;
   height: auto;
   width: 100%;
-  text-align: center;
 }
 
-img.profile {
-  margin: auto;
-  width: 30%;
+#profile {
+  width: 100%%;
   height: auto;
-  display: block;
 }
 
-h1.jumbo-header {
+#header {
   font-family: "Maven Pro", sans-serif;
   font-size: 3em;
   padding-top: none;
