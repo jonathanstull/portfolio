@@ -2,10 +2,15 @@ body {
   font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 }
 
-.jumbotron {
-  background-color:	#a3c1ad;
+header {
+  background-color: #385F71;
+  color: #F5F0F6;
+  font-size: 0.7em;
+  font-weight: bold;
+  padding: 20px;
+  height: auto;
   width: 100%;
-  border: none;
+  text-align: center;
 }
 
 img.profile {
